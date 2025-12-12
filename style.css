@@ -1,16 +1,20 @@
 h1 {
-    color:blueviolet;
+    color:rgb(191,34,115);
 }
 
 p {
-    color:cornflowerblue;
+    color:rgb(23, 2, 16);
 }
 
 button {
-    color:rgb(8, 8, 167);
-    background-color:rgb(5, 148, 148);
+    color:rgb(250, 6, 169);
+    background-color:rgb(0, 0, 16);
 }
 
 body {
-    background-color:black;
+    background-color:rgb(175, 116, 169);
+}
+
+pre {
+    color: #a8a800
 }
