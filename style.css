@@ -1,3 +1,20 @@
 * {
     color:red;
 }
+
+h1 {
+    color:blue;
+}
+
+#Heading1 {
+    color:green;
+}
+
+.Group1 {
+    color:black;
+}
+
+button {
+    color:aliceblue;
+    background-color:black;
+}
