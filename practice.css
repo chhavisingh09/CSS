@@ -1,7 +1,10 @@
-#p1 {
-    font-family:Arial;
+h1 {
+    text-align: center;
+    text-transform: capitalize;
 }
-
-#p2 {
-    font-family: Verdana;
+ #outer {
+    font-size: 25px;
+}
+#inner {
+    font-size: 10px;
 }
