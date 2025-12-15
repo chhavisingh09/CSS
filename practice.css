@@ -1,19 +1,18 @@
 /* pre {
     text-align:center;
-} */
-
-/* h1 {
+}
+h1 {
     text-decoration: underline;
 }
-
 p {
     text-decoration: overline;
 }
-
 pre {
     text-decoration: line-through;
-} */
-
+}
 a {
     text-decoration:none;
-}
+} */
+ h1 {
+    font-weight:normal;
+ }
