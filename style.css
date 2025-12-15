@@ -1,20 +1,7 @@
-* {
-    color:red;
+#one {
+    font-size: 20px;
 }
 
-h1 {
-    color:blue;
-}
-
-#Heading1 {
-    color:green;
-}
-
-.Group1 {
-    color:black;
-}
-
-button {
-    color:aliceblue;
-    background-color:black;
+#two {
+    font-size: 60px;
 }
