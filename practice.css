@@ -12,8 +12,7 @@ div {
     height: 100px;
     width: 100px;
     background-color: pink;
-    border-width: 2px;
-    border-style: solid;
-    border-color: brown;
-    border-radius: 50%;
+    border: 1px double brown;
+    border-radius: 5%;
+    text-align: center;
 }
