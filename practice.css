@@ -8,3 +8,12 @@ h1 {
 #inner {
     font-size: 10px;
 }
+div {
+    height: 100px;
+    width: 100px;
+    background-color: pink;
+    border-width: 2px;
+    border-style: solid;
+    border-color: brown;
+    border-radius: 50%;
+}
