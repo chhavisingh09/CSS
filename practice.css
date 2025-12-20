@@ -8,7 +8,26 @@ h1 {
 #inner {
     font-size: 10px;
 }
-div {
+#first {
+    height: 100px;
+    width: 100px;
+    background-color: pink;
+    border: 1px double brown;
+    border-radius: 5%;
+    text-align: center;
+    padding-top: 50px;
+}
+
+#second {
+    height: 100px;
+    width: 100px;
+    background-color: pink;
+    border: 1px double brown;
+    border-radius: 5%;
+    text-align: center;
+}
+
+#third {
     height: 100px;
     width: 100px;
     background-color: pink;
